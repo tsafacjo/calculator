@@ -1,0 +1,57 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: /home/tsafacjo/Documents/workspace/scala_learning/calculator/src/main/scala/Main.scala:27:31 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m27 |[0m      [33mcase[0m [31m"+"[0m => [33mnew[0m Addition(firstOperand, secondOperand)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                               ^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                               Found:    (firstOperand : Double)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                               Required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: /home/tsafacjo/Documents/workspace/scala_learning/calculator/src/main/scala/Main.scala:27:45 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m27 |[0m      [33mcase[0m [31m"+"[0m => [33mnew[0m Addition(firstOperand, secondOperand)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                             ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                      Found:    (secondOperand : Double)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                      Required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: /home/tsafacjo/Documents/workspace/scala_learning/calculator/src/main/scala/Main.scala:28:34 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m28 |[0m      [33mcase[0m [31m"-"[0m => [33mnew[0m Subtraction(firstOperand, secondOperand)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                  ^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                  Found:    (firstOperand : Double)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                  Required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: /home/tsafacjo/Documents/workspace/scala_learning/calculator/src/main/scala/Main.scala:28:48 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m28 |[0m      [33mcase[0m [31m"-"[0m => [33mnew[0m Subtraction(firstOperand, secondOperand)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                                ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                      Found:    (secondOperand : Double)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                      Required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: /home/tsafacjo/Documents/workspace/scala_learning/calculator/src/main/scala/Main.scala:29:37 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m29 |[0m      [33mcase[0m [31m"*"[0m => [33mnew[0m Multiplication(firstOperand, secondOperand)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                     ^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                     Found:    (firstOperand : Double)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                     Required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: /home/tsafacjo/Documents/workspace/scala_learning/calculator/src/main/scala/Main.scala:29:51 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m29 |[0m      [33mcase[0m [31m"*"[0m => [33mnew[0m Multiplication(firstOperand, secondOperand)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                                   ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                      Found:    (secondOperand : Double)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                      Required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: /home/tsafacjo/Documents/workspace/scala_learning/calculator/src/main/scala/Main.scala:30:31 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m30 |[0m      [33mcase[0m [31m"/"[0m => [33mnew[0m Division(firstOperand, secondOperand)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                               ^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                               Found:    (firstOperand : Double)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                               Required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E007] Type Mismatch Error: /home/tsafacjo/Documents/workspace/scala_learning/calculator/src/main/scala/Main.scala:30:45 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m30 |[0m      [33mcase[0m [31m"/"[0m => [33mnew[0m Division(firstOperand, secondOperand)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                             ^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                      Found:    (secondOperand : Double)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                      Required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m8 errors found[0m

@@ -1,0 +1,37 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/calculator_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util/Addition.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/util/Addition.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util/Multiplication.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/util/Multiplication.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util/Addition.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/util/Addition.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util/Subtraction.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/util/Subtraction.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util/Division.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/util/Division.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util/Multiplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/util/Multiplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util/Division.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/util/Division.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	util/Subtraction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/util/Subtraction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	core[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/core[0m
+[0m[[0m[0mdebug[0m] [0m[0m	core/Operator.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/core/Operator.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	core/Operator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/core/Operator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes/Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

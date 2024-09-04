@@ -1,0 +1,49 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Addition.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Operator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Soustration.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Multiplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Addition.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Operator.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Soustration.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Multiplication.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Addition.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Operator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Soustration.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Multiplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Addition.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Operator.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Soustration.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Multiplication.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Division.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Addition.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Subtraction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Operator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Multiplication.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Division.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Addition.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Subtraction.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Operator.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Multiplication.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/tsafacjo/Documents/workspace/scala_learning/calculator/target/scala-3.5.0/classes.bak[0m
