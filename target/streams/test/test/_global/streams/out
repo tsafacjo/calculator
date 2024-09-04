@@ -1,0 +1,26 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(test.util.TestAddition, org.scalatest.tools.Framework$$anon$1@501af043, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(test.util.SubtractionTest, org.scalatest.tools.Framework$$anon$1@501af043, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(test.util.MultiplicationTest, org.scalatest.tools.Framework$$anon$1@501af043, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MySuite, CustomFingerprint{suite='munit.Suite'}, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMultiplicationTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Addition should works[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTestAddition:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Addition should works[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSubtractionTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- Subtraction should works *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  46.0 did not equal -22 (SubstractionTest.scala:10)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mScalaTest[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 674 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 2, failed 1, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m*** 1 TEST FAILED ***[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for munit not available.[0m
+[0m[[0m[31merror[0m] [0m[0mFailed: Total 4, Failed 1, Errors 0, Passed 3[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test.util.TestAddition[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MySuite[0m
+[0m[[0m[0mdebug[0m] [0m[0m	test.util.MultiplicationTest[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	test.util.SubtractionTest[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

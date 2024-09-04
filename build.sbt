@@ -8,5 +8,11 @@ lazy val root = project
 
     scalaVersion := scala3Version,
 
-    libraryDependencies += "org.scalameta" %% "munit" % "1.0.0" % Test
-  )
+   libraryDependencies ++= Seq(
+  // MUnit for testing
+  "org.scalameta" %% "munit" % "1.0.0" % Test,
+
+  // ScalaTest for additional testing capabilities
+  "org.scalatest" %% "scalatest" % "3.2.16" % Test,
+ )
+)
